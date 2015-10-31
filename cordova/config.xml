@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="my.first.app" version="1.0.0">
-    <name>HelloWorld</name>
+<widget id="Bookstore.tabris.app" version="1.0.0">
+    <name>Bookstore</name>
     <description>
-        A sample Tabris.js application.
+        Tabris - Bookstore native app
     </description>
-    <author email="dev@tabrisjs.com" href="https://tabrisjs.com">
-        Tabris.js Team
+    <author email="edgardo.jimenez@live.com" href="https://edgardojimenez.com">
+        Edgardo jimenez
     </author>
 </widget>

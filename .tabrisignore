@@ -1,0 +1,7 @@
+node_modules
+test
+.gitignore
+gulpfile.js
+karma.conf.js
+readme.md
+cordovaupdate
