@@ -2,8 +2,8 @@
   "title": "Bookstore",
   "category": "Small Apps",
   "description": "An example of a bookstore app",
-  "main": "bookstore.js",
+  "main": "src/bookstore.js",
   "dependencies": {
-    "tabris": "^1.0.0"
+    "tabris": "^1.2.0"
   }
 }
